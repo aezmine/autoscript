@@ -7,7 +7,7 @@ Made by **Azmin** · [minazmin.my](https://minazmin.my) · Maybe have error, jus
 
 ---
 
-## ⚡ Quick Install
+## ⚡ Quick Install (JDK,Tomcat,Nginx,MySQL,HTTPS CERTIFICATE)
 
 Copy, paste, done.
 
